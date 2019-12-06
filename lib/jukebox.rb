@@ -18,6 +18,6 @@ puts  "- play : lets you choose a song to play"
 puts  "- exit : exits this program"
 end
 
-def list 
+def list(songs)
   
   
